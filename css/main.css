@@ -40,3 +40,12 @@ nav ul li a {
 nav ul li a:hover {
 	background-color: #45a049;
 }
+
+div.container {
+	max-width: 1200px;
+	margin: 40px auto;
+	padding: 30px 20px;
+	background-color: #fff;
+	border-radius: 10px;
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
